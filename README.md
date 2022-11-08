@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantkumar980&label=Profile%20views&color=0e75b6&style=flat" alt="hemantkumar980" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hemantkumar980k" target="blank"><img src="https://img.shields.io/twitter/follow/hemantkumar980k?logo=twitter&style=for-the-badge" alt="hemantkumar980k" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hemantkumar980" target="blank"><img src="https://img.shields.io/twitter/follow/hemantkumar980?logo=twitter&style=for-the-badge" alt="hemantkumar980" /></a> </p>
 
 - 🔭 I’m currently working on **final year project**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hemantkumar980k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemantkumar980k" height="30" width="40" /></a>
+<a href="https://twitter.com/hemantkumar980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemantkumar980" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hemantkumar980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemantkumar980" height="30" width="40" /></a>
 <a href="https://instagram.com/official_hemant_rajpoot85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official_hemant_rajpoot85" height="30" width="40" /></a>
 </p>
