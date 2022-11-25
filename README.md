@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **final year project**
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **backend**
 
 - 💬 Ask me about **html,css,javascript,bootstrap**
 
