@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/hemantkumar980" target="blank"><img src="https://img.shields.io/twitter/follow/hemantkumar980?logo=twitter&style=for-the-badge" alt="hemantkumar980" /></a> </p>
 
-- 🔭 I’m currently working on **final year project**
+- 🔭 I’m currently working on **LARAVEL FRAMEWORK**
 
 - 🌱 I’m currently learning **backend**
 
-- 💬 Ask me about **html,css,javascript,bootstrap**
+- 💬 Ask me about **html,css,javascript,bootstrap,PHP**
 
 - 📫 How to reach me **rajpoothemant980@gmail.com**
 
