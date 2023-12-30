@@ -3,8 +3,12 @@
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cutt.ly/XN4CUFE" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantkumar980&label=Profile%20views&color=0e75b6&style=flat" alt="hemantkumar980" /> </p>
+
+<p align="left"> <a href="https://twitter.com/hemantkumar980" target="blank"><img src="https://img.shields.io/twitter/follow/hemantkumar980?logo=twitter&style=for-the-badge" alt="hemantkumar980" /></a> </p>
+
 # 💫 About Me:
-- 🔭 I’m currently working on **LARAVEL FRAMEWORK**<br><br>- 🌱 I’m currently learning **backend**<br><br>- 💬 Ask me about **html,css,javascript,bootstrap,PHP**<br><br>- 📫 How to reach me **rajpoothemant980@gmail.com**<br><br>- ⚡ Fun fact **I am funny**
+⦿ 🔭 I’m currently working on **LARAVEL FRAMEWORK**<br><br> ⦿ 🌱 I’m currently learning **backend**<br><br> ⦿ 💬 Ask me about **html,css,javascript,bootstrap,PHP**<br><br> ⦿ 📫 How to reach me **rajpoothemant980@gmail.com**<br><br> ⦿ ⚡ Fun fact **I am funny**
 
 
 ## 🌐 Socials:
@@ -13,9 +17,9 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantkumar980&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=hemantkumar980&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hemantkumar980&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantkumar980&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hemantkumar980&theme=dark&no-frame=false&no-bg=false&margin-w=4)
