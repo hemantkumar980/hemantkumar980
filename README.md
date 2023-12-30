@@ -1,3 +1,8 @@
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/hemantkumar980)
+<h1 align="center">Hi 👋, I'm HEMANT KUMAR</h1>
+<h3 align="center">A passionate web developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cutt.ly/XN4CUFE" />
+
 # 💫 About Me:
 - 🔭 I’m currently working on **LARAVEL FRAMEWORK**<br><br>- 🌱 I’m currently learning **backend**<br><br>- 💬 Ask me about **html,css,javascript,bootstrap,PHP**<br><br>- 📫 How to reach me **rajpoothemant980@gmail.com**<br><br>- ⚡ Fun fact **I am funny**
 
