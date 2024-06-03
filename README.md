@@ -1,6 +1,6 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/hemantkumar980)
-<h1 align="center">Hi 👋, I'm HEMANT KUMAR</h1>
-<h3 align="center">A passionate web developer from India</h3>
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/anand25an)
+<h1 align="center">Hi 👋, I'm ANAND PATEL</h1>
+<h3 align="center">A passionate React developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cutt.ly/XN4CUFE" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantkumar980&label=Profile%20views&color=0e75b6&style=flat" alt="hemantkumar980" /> </p>
